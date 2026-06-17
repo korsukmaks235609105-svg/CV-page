@@ -10,4 +10,4 @@
 
 [CV page repository](https://github.com/korsukmaks235609105-svg/CV-page)
 
-![image](me/photo_2025-12-25_12-32-32.png)
+![image](me/HTML5_logo_and_wordmark.svg.png)
